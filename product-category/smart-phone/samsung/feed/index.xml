@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Samsung &#8211; HaakenWP</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-category/smart-phone/samsung/feed/" rel="self" type="application/rss+xml" />
+	<link>https://t2phuem01.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Mon, 03 Oct 2022 05:45:18 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://t2phuem01.github.io/mywordpress/wp-content/uploads/2018/04/cropped-favicon-1.png</url>
+	<title>Samsung &#8211; HaakenWP</title>
+	<link>https://t2phuem01.github.io/mywordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>NYKE ACG AIR DESCHUTZ +</title>
+		<link>https://t2phuem01.github.io/mywordpress/product/nyke-acg-air-deschutz/</link>
+					<comments>https://t2phuem01.github.io/mywordpress/product/nyke-acg-air-deschutz/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhphuem]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 02:57:45 +0000</pubDate>
+				<guid isPermaLink="false">https://t2phuem01.github.io/mywordpress/?post_type=product&#038;p=1543</guid>
+
+					<description><![CDATA[<strong><span class="woocommerce-Price-amount amount"><bdi>440.000</bdi></span>–600.0<span class="woocommerce-Price-amount amount"><bdi>00 VND</bdi></span></strong>
+
+From city hikes to canyon trails and long walks on the beach, the Nyke ACG Air Deschutz + is built to feel comfortable.It’s got a classic ’90s look and rugged outdoor-inspired design, with plush padding around the ankle for support.A heavy-duty webbing strap and adjustable hook-and-loop closure keep you focused on the journey ahead.
+
+&#160;]]></description>
+										<content:encoded><![CDATA[<ul class="tabs wc-tabs" role="tablist">
+<li id="tab-title-description" class="description_tab active" role="tab" aria-controls="tab-description"><a href="http://vasia.mallthemes.com/shoes/product/condimentum-posuere/#tab-description">Description</a></li>
+<li id="tab-title-additional_information" class="additional_information_tab" role="tab" aria-controls="tab-additional_information"><a href="http://vasia.mallthemes.com/shoes/product/condimentum-posuere/#tab-additional_information">Additional Information</a></li>
+<li id="tab-title-reviews" class="reviews_tab" role="tab" aria-controls="tab-reviews"><a href="http://vasia.mallthemes.com/shoes/product/condimentum-posuere/#tab-reviews">Reviews (7)</a></li>
+<li id="tab-title-vasia_additional_tab" class="vasia_additional_tab_tab" role="tab" aria-controls="tab-vasia_additional_tab"><a href="http://vasia.mallthemes.com/shoes/product/condimentum-posuere/#tab-vasia_additional_tab">Delivery Information</a></li>
+</ul>
+<div id="tab-description" class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" role="tabpanel" aria-labelledby="tab-title-description">
+<div class="pi-pdpmainbody">
+<h5>A SANDAL THAT GOES WHERE YOU GO.</h5>
+<p>From city hikes to canyon trails and long walks on the beach, the Nike ACG Air Deschutz + is built to feel comfortable.It’s got a classic ’90s look and rugged outdoor-inspired design, with plush padding around the ankle for<br />
+support.A heavy-duty webbing strap and adjustable hook-and-loop closure keep you focused on the journey ahead.</p>
+<h5>Northwest Tested</h5>
+<p>This product was designed and tested in Oregon, USA.The state’s vast wilderness and climate served as inspiration for the sandal’s look and purpose.</p>
+<h5>Traction to Take You Places</h5>
+<p>The sticky rubber outsole delivers traction made for the outdoors.</p>
+<h5>Built for the Journey</h5>
+<p>Quick-drying materials in the upper help shed water to keep you comfortable.</p>
+<h5>More Benefits</h5>
+<ul>
+<li>An Air unit in the heel adds lasting comfort.</li>
+<li>The webbing strap with hook-and-loop closure offers easy, on-the-go adjustment.</li>
+<li>Plush padding around the ankle adds to the comfort so you can focus on your adventure.</li>
+<li>A drop-in footbed helps keep your foot in place.</li>
+</ul>
+<h5>Product Details</h5>
+<ul>
+<li>ACG branding</li>
+<li>Colour Shown: Moon Fossil/Black</li>
+<li>Style: DC9092-001</li>
+<li>Country/Region of Origin: Vietnam</li>
+</ul>
+<h5>Nyke ACG</h5>
+<p>Ready to conquer or escape the city landscape, Nike All Conditions Gear outfits you in modern wear that tackles the elements.Windproof and waterproof fabrics and breathable technologies keep you covered, while next-level design<br />
+equips you with versatile storage and style options.</p>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://t2phuem01.github.io/mywordpress/product/nyke-acg-air-deschutz/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
