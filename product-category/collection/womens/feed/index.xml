@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-category/collection/womens/feed/" rel="self" type="application/rss+xml" />
 	<link>https://t2phuem01.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 04 Oct 2022 02:00:01 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Oct 2022 12:11:00 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,5 +30,24 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>ORNARE SED CONSEQUAT</title>
+		<link>https://t2phuem01.github.io/mywordpress/product/ornare-sed-consequat/</link>
+					<comments>https://t2phuem01.github.io/mywordpress/product/ornare-sed-consequat/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhphuem]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 12:11:00 +0000</pubDate>
+				<guid isPermaLink="false">https://t2phuem01.github.io/mywordpress/?post_type=product&#038;p=2054</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.</p>
+<p>Pellentesque aliquet, sem eget laoreet ultrices, ipsum metus feugiat sem, quis fermentum turpis eros eget velit. Donec ac tempus ante. Fusce ultricies massa massa. Fusce aliquam, purus eget sagittis vulputate, sapien libero hendrerit est, sed commodo augue nisi non neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et placerat vestibulum, metus nisi posuere nisl, in accumsan elit odio quis mi. Cras neque metus, consequat et blandit et, luctus a nunc. Etiam gravida vehicula tellus, in imperdiet ligula euismod eget.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://t2phuem01.github.io/mywordpress/product/ornare-sed-consequat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>

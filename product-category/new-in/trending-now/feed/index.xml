@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-category/new-in/trending-now/feed/" rel="self" type="application/rss+xml" />
 	<link>https://t2phuem01.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Mon, 03 Oct 2022 17:48:04 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Oct 2022 13:11:28 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>PELLENTESQUE POSUERE</title>
+		<link>https://t2phuem01.github.io/mywordpress/product/2060/</link>
+					<comments>https://t2phuem01.github.io/mywordpress/product/2060/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhphuem]]></dc:creator>
+		<pubDate>Tue, 04 Oct 2022 12:15:12 +0000</pubDate>
+				<guid isPermaLink="false">https://t2phuem01.github.io/mywordpress/?post_type=product&#038;p=2060</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco,Proin lectus ipsum, gravida et mattis vulputate, tristique ut lectus]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.</p>
+<p>Pellentesque aliquet, sem eget laoreet ultrices, ipsum metus feugiat sem, quis fermentum turpis eros eget velit. Donec ac tempus ante. Fusce ultricies massa massa. Fusce aliquam, purus eget sagittis vulputate, sapien libero hendrerit est, sed commodo augue nisi non neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et placerat vestibulum, metus nisi posuere nisl, in accumsan elit odio quis mi. Cras neque metus, consequat et blandit et, luctus a nunc. Etiam gravida vehicula tellus, in imperdiet ligula euismod eget.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://t2phuem01.github.io/mywordpress/product/2060/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>NYKE AIR ZOOM G.T.RUN</title>
 		<link>https://t2phuem01.github.io/mywordpress/product/nyke-air-zoom-g-t-run/</link>
 					<comments>https://t2phuem01.github.io/mywordpress/product/nyke-air-zoom-g-t-run/#respond</comments>
@@ -40,15 +59,7 @@
 				<guid isPermaLink="false">https://t2phuem01.github.io/mywordpress/?post_type=product&#038;p=1880</guid>
 
 					<description><![CDATA[Feel fresh.Hustle hard.The Nyke Air Zoom G.T.Run is designed for players who can do it all on court and need their shoes to keep up.Its cushioning system is stacked with 2 Zoom Air units plus 2 layers of Nike React foam.Ultralight and extra supportive in key areas, it provides a snug, consistent fit and a responsive feel to help you get the most out of your energy and outlast the competition.]]></description>
-										<content:encoded><![CDATA[<ul class="tabs wc-tabs" role="tablist">
-<li id="tab-title-description" class="description_tab active" role="tab" aria-controls="tab-description"><a href="http://vasia.mallthemes.com/shoes/product/epicuri-per-lobortis/#tab-description">Description</a></li>
-<li id="tab-title-additional_information" class="additional_information_tab" role="tab" aria-controls="tab-additional_information"><a href="http://vasia.mallthemes.com/shoes/product/epicuri-per-lobortis/#tab-additional_information">Additional Information</a></li>
-<li id="tab-title-reviews" class="reviews_tab" role="tab" aria-controls="tab-reviews"><a href="http://vasia.mallthemes.com/shoes/product/epicuri-per-lobortis/#tab-reviews">Reviews (8)</a></li>
-<li id="tab-title-vasia_additional_tab" class="vasia_additional_tab_tab" role="tab" aria-controls="tab-vasia_additional_tab"><a href="http://vasia.mallthemes.com/shoes/product/epicuri-per-lobortis/#tab-vasia_additional_tab">Delivery Information</a></li>
-</ul>
-<div id="tab-description" class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" role="tabpanel" aria-labelledby="tab-title-description">
-<div class="pi-pdpmainbody">
-<h5>INTENSE ENERGY RETURN TO GO ALL GAME.</h5>
+										<content:encoded><![CDATA[<h5>INTENSE ENERGY RETURN TO GO ALL GAME.</h5>
 <p>Feel fresh.Hustle hard.The Nyke Air Zoom G.T.Run is designed for players who can do it all on court and need their shoes to keep up.Its cushioning system is stacked with 2 Zoom Air units plus 2 layers of Nike React foam.Ultralight<br />
 and extra supportive in key areas, it provides a snug, consistent fit and a responsive feel to help you get the most out of your energy and outlast the competition.</p>
 <h5>Multi-layered Cushioning to Move with Momentum</h5>
@@ -75,8 +86,6 @@ incredible energy return to help you go all game long.</p>
 <h5>Greater Than Series: Creating the Next Era of Basketball</h5>
 <p>The future of basketball is positionless, faster and more efficient.Players have to cut quicker, run faster and jump higher than ever to create the separation they’ll need to compete at a high level.By precisely engineering the fit,<br />
 ride and traction, Nyke Basketball’s Greater Than series aims to deliver measurable benefits to athletes who use their quickness, speed or vertical ability to gain an edge and go beyond what’s thought possible.</p>
-</div>
-</div>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://t2phuem01.github.io/mywordpress/product/nyke-air-zoom-g-t-run/feed/</wfw:commentRss>

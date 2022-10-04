@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-category/clothing/swimwear/feed/" rel="self" type="application/rss+xml" />
 	<link>https://t2phuem01.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Mon, 03 Oct 2022 18:25:58 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Oct 2022 13:01:19 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -39,18 +39,8 @@
 		<pubDate>Mon, 03 Oct 2022 18:25:58 +0000</pubDate>
 				<guid isPermaLink="false">https://t2phuem01.github.io/mywordpress/?post_type=product&#038;p=1915</guid>
 
-					<description><![CDATA[<span class="woocommerce-Price-amount amount"><bdi>800000</bdi></span>–9000<span class="woocommerce-Price-amount amount"><bdi>00 đ</bdi></span>
-
-Bridging sport and fashion, the Nyke Asuna Slide lets you transition effortlessly between worlds with its versatile style and comfort.Soft foam underfoot feels good all day, while the rugged tread pattern grips the sand, streets and trails you explore.The cinch cord offers a quick, customised fit for the terrain ahead.]]></description>
-										<content:encoded><![CDATA[<ul class="tabs wc-tabs" role="tablist">
-<li id="tab-title-description" class="description_tab active" role="tab" aria-controls="tab-description"><a href="http://vasia.mallthemes.com/shoes/product/consequuntur-magni/#tab-description">Description</a></li>
-<li id="tab-title-additional_information" class="additional_information_tab" role="tab" aria-controls="tab-additional_information"><a href="http://vasia.mallthemes.com/shoes/product/consequuntur-magni/#tab-additional_information">Additional Information</a></li>
-<li id="tab-title-reviews" class="reviews_tab" role="tab" aria-controls="tab-reviews"><a href="http://vasia.mallthemes.com/shoes/product/consequuntur-magni/#tab-reviews">Reviews (7)</a></li>
-<li id="tab-title-vasia_additional_tab" class="vasia_additional_tab_tab" role="tab" aria-controls="tab-vasia_additional_tab"><a href="http://vasia.mallthemes.com/shoes/product/consequuntur-magni/#tab-vasia_additional_tab">Delivery Information</a></li>
-</ul>
-<div id="tab-description" class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" role="tabpanel" aria-labelledby="tab-title-description">
-<div class="pi-pdpmainbody">
-<h5>RELAX, EXPLORE, RECHARGE.REPEAT.</h5>
+					<description><![CDATA[Bridging sport and fashion, the Nyke Asuna Slide lets you transition effortlessly between worlds with its versatile style and comfort.Soft foam underfoot feels good all day, while the rugged tread pattern grips the sand, streets and trails you explore.The cinch cord offers a quick, customised fit for the terrain ahead.]]></description>
+										<content:encoded><![CDATA[<h5>RELAX, EXPLORE, RECHARGE.REPEAT.</h5>
 <p>Bridging sport and fashion, the Nike Asuna Slide lets you transition effortlessly between worlds with its versatile style and comfort.Soft foam underfoot feels good all day, while the rugged tread pattern grips the sand, streets and<br />
 trails you explore.The cinch cord offers a quick, customised fit for the terrain ahead.</p>
 <h5>Benefits</h5>
@@ -62,8 +52,6 @@ trails you explore.The cinch cord offers a quick, customised fit for the terrain
 <li>Style: CI8799-003</li>
 <li>Country/Region of Origin: Vietnam</li>
 </ul>
-</div>
-</div>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://t2phuem01.github.io/mywordpress/product/nyke-asuna/feed/</wfw:commentRss>

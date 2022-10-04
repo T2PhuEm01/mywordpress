@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Ready-to-Wear &#8211; HaakenWP</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-category/collection/ready-to-wear/feed/" rel="self" type="application/rss+xml" />
+	<link>https://t2phuem01.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 04 Oct 2022 12:44:33 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://t2phuem01.github.io/mywordpress/wp-content/uploads/2018/04/cropped-favicon-1.png</url>
+	<title>Ready-to-Wear &#8211; HaakenWP</title>
+	<link>https://t2phuem01.github.io/mywordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>NYKE ACG AIR DESCHÜTZ +</title>
+		<link>https://t2phuem01.github.io/mywordpress/product/nyke-acg-air-deschutz-2/</link>
+					<comments>https://t2phuem01.github.io/mywordpress/product/nyke-acg-air-deschutz-2/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhphuem]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 03:09:42 +0000</pubDate>
+				<guid isPermaLink="false">https://t2phuem01.github.io/mywordpress/?post_type=product&#038;p=1554</guid>
+
+					<description><![CDATA[From city hikes to canyon trails to long walks on the beach, the Nyke ACG Air Deschütz + is built to feel comfortable. Featuring a classic ’90s look and rugged outdoor-inspired design, its plush padding around the ankle, heavy-duty webbing strap and easily adjustable hook-and-loop closure keep you focused on the journey ahead.]]></description>
+										<content:encoded><![CDATA[<h5>ENERGY FOR EVERYDAY JOURNEYS.</h5>
+<p>From city hikes to canyon trails to long walks on the beach, the Nike ACG Air Deschütz + is built to feel comfortable. Featuring a classic ’90s look and rugged outdoor-inspired design, its plush padding around the ankle, heavy-duty<br />
+webbing strap and easily adjustable hook-and-loop closure keep you focused on the journey ahead.</p>
+<h5>Benefits</h5>
+<ul>
+<li>The Air unit in the heel adds lasting comfort.</li>
+<li>The webbing straps with hook-and-loop closure offer easy on-the-go adjustment and personalised comfort.</li>
+<li>Plush padding around the ankle adds to the comfort, so you can focus on the journey.</li>
+<li>The drop-in footbed helps keep your foot in place.</li>
+</ul>
+<h5>Product Details</h5>
+<ul>
+<li>Perforations on toe strap for extra ventilation</li>
+<li>ACG logo on side</li>
+<li>OG “AIR Deschütz” on sole</li>
+<li>Colour Shown: Black/Iron Grey</li>
+<li>Style: DC9093-001</li>
+<li>Country/Region of Origin: Vietnam</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://t2phuem01.github.io/mywordpress/product/nyke-acg-air-deschutz-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
