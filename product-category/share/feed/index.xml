@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>SHARE &#8211; HaakenWP</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-category/share/feed/" rel="self" type="application/rss+xml" />
+	<link>https://t2phuem01.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 15 Oct 2022 11:57:09 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://t2phuem01.github.io/mywordpress/wp-content/uploads/2018/04/cropped-favicon-1.png</url>
+	<title>SHARE &#8211; HaakenWP</title>
+	<link>https://t2phuem01.github.io/mywordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>NYKE AIR ZOOM G.T.RUN</title>
+		<link>https://t2phuem01.github.io/mywordpress/product/nyke-air-zoom-g-t-run/</link>
+					<comments>https://t2phuem01.github.io/mywordpress/product/nyke-air-zoom-g-t-run/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhphuem]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 17:48:03 +0000</pubDate>
+				<guid isPermaLink="false">https://t2phuem01.github.io/mywordpress/?post_type=product&#038;p=1880</guid>
+
+					<description><![CDATA[Feel fresh.Hustle hard.The Nyke Air Zoom G.T.Run is designed for players who can do it all on court and need their shoes to keep up.Its cushioning system is stacked with 2 Zoom Air units plus 2 layers of Nike React foam.Ultralight and extra supportive in key areas, it provides a snug, consistent fit and a responsive feel to help you get the most out of your energy and outlast the competition.]]></description>
+										<content:encoded><![CDATA[<h5>INTENSE ENERGY RETURN TO GO ALL GAME.</h5>
+<p>Feel fresh.Hustle hard.The Nyke Air Zoom G.T.Run is designed for players who can do it all on court and need their shoes to keep up.Its cushioning system is stacked with 2 Zoom Air units plus 2 layers of Nike React foam.Ultralight<br />
+and extra supportive in key areas, it provides a snug, consistent fit and a responsive feel to help you get the most out of your energy and outlast the competition.</p>
+<h5>Multi-layered Cushioning to Move with Momentum</h5>
+<p>Right under your foot is a React foam sockliner, and below that a Zoom Air unit that covers most of the forefoot.Both are stacked over a full-length React foam footbed and another forefoot Zoom Air unit.Altogether, they deliver<br />
+incredible energy return to help you go all game long.</p>
+<h5>Containment Through Comfort</h5>
+<p>The 2-layer upper is made from lightweight material that’s got haptic print details for durability.It’s breathable with a broken-in feel.</p>
+<h5>Multi-directional Micro-Grip</h5>
+<p>The thin rubber outsole has curvy ridges that bend and flex to provide traction in multiple directions.The rubber is cut away under the arch and perforated to help reduce weight.</p>
+<h5>More Benefits</h5>
+<ul>
+<li>The visible midsole is lightweight, durable Nike React foam.</li>
+<li>The foam tongue moulds to your foot to help provide comfort from lace pressure.</li>
+<li>A padded, mid-high collar provides comfort and support around the ankle without sacrificing agility.</li>
+</ul>
+<h5>Product Details</h5>
+<ul>
+<li>Heel pull tab</li>
+<li>TPU midsole insert</li>
+<li>Colour Shown: Black/Hyper Crimson/Vapour Green/Ghost</li>
+<li>Style: CZ0202-001</li>
+<li>Country/Region of Origin: China</li>
+</ul>
+<h5>Greater Than Series: Creating the Next Era of Basketball</h5>
+<p>The future of basketball is positionless, faster and more efficient.Players have to cut quicker, run faster and jump higher than ever to create the separation they’ll need to compete at a high level.By precisely engineering the fit,<br />
+ride and traction, Nyke Basketball’s Greater Than series aims to deliver measurable benefits to athletes who use their quickness, speed or vertical ability to gain an edge and go beyond what’s thought possible.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://t2phuem01.github.io/mywordpress/product/nyke-air-zoom-g-t-run/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
