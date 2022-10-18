@@ -21,7 +21,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
 	<url>https://t2phuem01.github.io/mywordpress/wp-content/uploads/2018/04/cropped-favicon-1.png</url>
@@ -320,7 +320,7 @@ The Bhagvad Gita</cite></p></blockquote>
 		<guid isPermaLink="false">https://demo.themegrill.com/cenote/?p=258</guid>
 
 					<description><![CDATA[themegrill.com &#160;]]></description>
-										<content:encoded><![CDATA[<p><a href="https://themegrill.com/">themegrill.com</a></p>
+										<content:encoded><![CDATA[<p><a href="https://themegrill.com/" target="_blank" rel="noopener">themegrill.com</a></p>
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
